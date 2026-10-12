@@ -1,0 +1,1 @@
+Git is a local software tool used to track changes in your code, while GitHub is an online, cloud-based platform that hosts Git repositories and enables team collaboration
